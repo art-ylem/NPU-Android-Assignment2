@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">NPUAssignment2</string>
+    <string name="app_name">Challenge Intents</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="btn_text">Create new contact</string>
+    <string name="please_enter_name">please enter name</string>
+    <string name="please_enter_location">please enter location</string>
+    <string name="please_enter_web_address">please enter web address</string>
+    <string name="please_enter_number">please enter number</string>
+    <string name="phone">phone</string>
+    <string name="state">state</string>
+    <string name="webSite">webSite</string>
+    <string name="location">location</string>
 </resources>
